@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/2410991101/Leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/2410991101/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/2410991101/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0485-max-consecutive-ones](https://github.com/2410991101/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2410991101/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Backtracking
 |  |
