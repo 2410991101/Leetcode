@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/2410991101/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/2410991101/Leetcode/tree/master/0051-n-queens) |
+| [0074-search-a-2d-matrix](https://github.com/2410991101/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/2410991101/Leetcode/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/2410991101/Leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/2410991101/Leetcode/tree/master/0139-word-break) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/2410991101/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/2410991101/Leetcode/tree/master/0079-word-search) |
 ## Trie
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/2410991101/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/2410991101/Leetcode/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2410991101/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
