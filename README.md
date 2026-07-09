@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/2410991101/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/2410991101/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/2410991101/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/2410991101/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/2410991101/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/2410991101/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/2410991101/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/2410991101/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/2410991101/Leetcode/tree/master/0079-word-search) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/2410991101/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/2410991101/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/2410991101/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
