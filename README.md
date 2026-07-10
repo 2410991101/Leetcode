@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/2410991101/Leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/2410991101/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/2410991101/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/2410991101/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/2410991101/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/2410991101/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/2410991101/Leetcode/tree/master/0283-move-zeroes) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/2410991101/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/2410991101/Leetcode/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/2410991101/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/2410991101/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/2410991101/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/2410991101/Leetcode/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2410991101/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
@@ -111,4 +114,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/2410991101/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/2410991101/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/2410991101/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
