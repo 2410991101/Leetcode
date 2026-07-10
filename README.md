@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/2410991101/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/2410991101/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/2410991101/Leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/2410991101/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/2410991101/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/2410991101/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/2410991101/Leetcode/tree/master/0079-word-search) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/2410991101/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/2410991101/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/2410991101/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/2410991101/Leetcode/tree/master/0139-word-break) |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/2410991101/Leetcode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2410991101/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/2410991101/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
