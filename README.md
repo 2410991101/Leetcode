@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/2410991101/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/2410991101/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/2410991101/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0796-rotate-string](https://github.com/2410991101/Leetcode/tree/master/0796-rotate-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -195,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/2410991101/Leetcode/tree/master/0410-split-array-largest-sum) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/2410991101/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
