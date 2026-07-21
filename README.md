@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/2410991101/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/2410991101/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/2410991101/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/2410991101/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/2410991101/Leetcode/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/2410991101/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2410991101/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/2410991101/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/2410991101/Leetcode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/2410991101/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/2410991101/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
