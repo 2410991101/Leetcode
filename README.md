@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/2410991101/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/2410991101/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/2410991101/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/2410991101/Leetcode/tree/master/0139-word-break) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/2410991101/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/2410991101/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/2410991101/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/2410991101/Leetcode/tree/master/0079-word-search) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/2410991101/Leetcode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/2410991101/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/2410991101/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/2410991101/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/2410991101/Leetcode/tree/master/0189-rotate-array) |
