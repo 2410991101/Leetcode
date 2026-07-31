@@ -3,20 +3,15 @@ class Solution {
         if (s.length() != t.length()) {
             return false;
         }
-
-        int[] freq = new int[26];
-
-        for (int i = 0; i < s.length(); i++) {
-            freq[s.charAt(i) - 'a']++;   // count for s
-            freq[t.charAt(i) - 'a']--;   // subtract for t
+        char[] a = s.toCharArray();
+        char[] b = t.toCharArray();
+        Arrays.sort(a);
+        Arrays.sort(b);
+        if(Arrays.equals(a,b)){
+            return true;
         }
-
-        for (int i = 0; i < 26; i++) {
-            if (freq[i] != 0) {
-                return false;
-            }
+        else{
+            return false;
         }
-
-        return true;
     }
 }
