@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/2410991101/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/2410991101/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/2410991101/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/2410991101/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2410991101/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2410991101/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Backtracking
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/2410991101/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/2410991101/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/2410991101/Leetcode/tree/master/0268-missing-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/2410991101/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/2410991101/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Bit Manipulation
 |  |
@@ -255,5 +257,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/2410991101/Leetcode/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/2410991101/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/2410991101/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
