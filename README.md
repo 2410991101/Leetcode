@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/2410991101/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/2410991101/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/2410991101/Leetcode/tree/master/0268-missing-number) |
+| [2523-closest-prime-numbers-in-range](https://github.com/2410991101/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -254,4 +255,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/2410991101/Leetcode/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/2410991101/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
