@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/2410991101/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/2410991101/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/2410991101/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1250-check-if-it-is-a-good-array](https://github.com/2410991101/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/2410991101/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/2410991101/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/2410991101/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/2410991101/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/2410991101/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/2410991101/Leetcode/tree/master/0268-missing-number) |
+| [1250-check-if-it-is-a-good-array](https://github.com/2410991101/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2410991101/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/2410991101/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/2410991101/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
@@ -259,15 +261,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/2410991101/Leetcode/tree/master/0204-count-primes) |
+| [1250-check-if-it-is-a-good-array](https://github.com/2410991101/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2410991101/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/2410991101/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/2410991101/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/2410991101/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [2427-number-of-common-factors](https://github.com/2410991101/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/2410991101/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [2427-number-of-common-factors](https://github.com/2410991101/Leetcode/tree/master/2427-number-of-common-factors) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/2410991101/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/2410991101/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
