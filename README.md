@@ -316,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/2410991101/Leetcode/tree/master/0042-trapping-rain-water) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/2410991101/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
