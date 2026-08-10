@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/2410991101/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/2410991101/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/2410991101/Leetcode/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/2410991101/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2410991101/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/2410991101/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/2410991101/Leetcode/tree/master/0283-move-zeroes) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/2410991101/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/2410991101/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -334,6 +336,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/2410991101/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/2410991101/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/2410991101/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/2410991101/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/2410991101/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/2410991101/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/2410991101/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
