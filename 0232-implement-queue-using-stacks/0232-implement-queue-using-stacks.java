@@ -3,7 +3,7 @@ class MyQueue {
     Stack<Integer> out;
     public MyQueue() {
         in = new Stack<>();
-        out= new Stack<>();
+        out = new Stack<>();
     }
     
     public void push(int x) {
