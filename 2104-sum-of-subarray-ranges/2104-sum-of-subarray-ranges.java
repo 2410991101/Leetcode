@@ -2,12 +2,13 @@ class Solution {
     public long subArrayRanges(int[] nums) {
         
         int n = nums.length;
+        
         long minSum = 0;
         long maxSum = 0;
         
         Stack<Integer> st = new Stack<>();
         
-        // Minimum contribution
+        // Sum of subarray minimums
         for(int i = 0; i <= n; i++) {
             
             while(!st.isEmpty() && 
@@ -18,19 +19,18 @@ class Solution {
                 int left = st.isEmpty() ? -1 : st.peek();
                 int right = i;
                 
-                minSum += (long) nums[mid] 
-                        * (mid - left) 
-                        * (right - mid);
+                long leftCount = mid - left;
+                long rightCount = right - mid;
+                
+                minSum += (long) nums[mid] * leftCount * rightCount;
             }
             
-            if(i < n) {
-                st.push(i);
-            }
+            st.push(i);
         }
         
         st.clear();
         
-        // Maximum contribution
+        // Sum of subarray maximums
         for(int i = 0; i <= n; i++) {
             
             while(!st.isEmpty() && 
@@ -41,14 +41,13 @@ class Solution {
                 int left = st.isEmpty() ? -1 : st.peek();
                 int right = i;
                 
-                maxSum += (long) nums[mid] 
-                        * (mid - left) 
-                        * (right - mid);
+                long leftCount = mid - left;
+                long rightCount = right - mid;
+                
+                maxSum += (long) nums[mid] * leftCount * rightCount;
             }
             
-            if(i < n) {
-                st.push(i);
-            }
+            st.push(i);
         }
         
         return maxSum - minSum;
