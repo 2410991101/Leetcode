@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/2410991101/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/2410991101/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/2410991101/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/2410991101/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/2410991101/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/2410991101/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/2410991101/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/2410991101/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/2410991101/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/2410991101/Leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/2410991101/Leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/2410991101/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/2410991101/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2410991101/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
