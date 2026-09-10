@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/2410991101/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/2410991101/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2410991101/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/2410991101/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Backtracking
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/2410991101/Leetcode/tree/master/0455-assign-cookies) |
 | [1710-maximum-units-on-a-truck](https://github.com/2410991101/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2410991101/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/2410991101/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/2410991101/Leetcode/tree/master/0455-assign-cookies) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/2410991101/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2410991101/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/2410991101/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Math
 |  |
 | ------- |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/2410991101/Leetcode/tree/master/0455-assign-cookies) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/2410991101/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1710-maximum-units-on-a-truck](https://github.com/2410991101/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/2410991101/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String Matching
 |  |
 | ------- |
