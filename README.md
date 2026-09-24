@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-check-if-it-is-a-good-array](https://github.com/2410991101/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/2410991101/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/2410991101/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1314-matrix-block-sum](https://github.com/2410991101/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/2410991101/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/2410991101/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1710-maximum-units-on-a-truck](https://github.com/2410991101/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/2410991101/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2410991101/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/2410991101/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1314-matrix-block-sum](https://github.com/2410991101/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/2410991101/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Trie
 |  |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/2410991101/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/2410991101/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/2410991101/Leetcode/tree/master/1094-car-pooling) |
+| [1314-matrix-block-sum](https://github.com/2410991101/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/2410991101/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/2410991101/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Linked List
