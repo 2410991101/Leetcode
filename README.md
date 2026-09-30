@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/2410991101/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/2410991101/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/2410991101/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/2410991101/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/2410991101/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/2410991101/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/2410991101/Leetcode/tree/master/0054-spiral-matrix) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/2410991101/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/2410991101/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/2410991101/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/2410991101/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/2410991101/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/2410991101/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/2410991101/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/2410991101/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/2410991101/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/2410991101/Leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/2410991101/Leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/2410991101/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/2410991101/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/2410991101/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/2410991101/Leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/2410991101/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/2410991101/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/2410991101/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/2410991101/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
