@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/2410991101/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/2410991101/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/2410991101/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0763-partition-labels](https://github.com/2410991101/Leetcode/tree/master/0763-partition-labels) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/2410991101/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/2410991101/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/2410991101/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/2410991101/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0686-repeated-string-match](https://github.com/2410991101/Leetcode/tree/master/0686-repeated-string-match) |
+| [0763-partition-labels](https://github.com/2410991101/Leetcode/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/2410991101/Leetcode/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/2410991101/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2410991101/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/2410991101/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/2410991101/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/2410991101/Leetcode/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/2410991101/Leetcode/tree/master/0763-partition-labels) |
 | [0845-longest-mountain-in-array](https://github.com/2410991101/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/2410991101/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2410991101/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/2410991101/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/2410991101/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/2410991101/Leetcode/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/2410991101/Leetcode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/2410991101/Leetcode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/2410991101/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1710-maximum-units-on-a-truck](https://github.com/2410991101/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
