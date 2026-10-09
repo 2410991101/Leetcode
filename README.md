@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/2410991101/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/2410991101/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/2410991101/Leetcode/tree/master/0396-rotate-function) |
+| [0403-frog-jump](https://github.com/2410991101/Leetcode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/2410991101/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/2410991101/Leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/2410991101/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/2410991101/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/2410991101/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0396-rotate-function](https://github.com/2410991101/Leetcode/tree/master/0396-rotate-function) |
+| [0403-frog-jump](https://github.com/2410991101/Leetcode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/2410991101/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/2410991101/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/2410991101/Leetcode/tree/master/0509-fibonacci-number) |
