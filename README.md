@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/2410991101/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/2410991101/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/2410991101/Leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/2410991101/Leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/2410991101/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/2410991101/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/2410991101/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/2410991101/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/2410991101/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/2410991101/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/2410991101/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/2410991101/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/2410991101/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/2410991101/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/2410991101/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/2410991101/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/2410991101/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/2410991101/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/2410991101/Leetcode/tree/master/0268-missing-number) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/2410991101/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/2410991101/Leetcode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/2410991101/Leetcode/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/2410991101/Leetcode/tree/master/1094-car-pooling) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2410991101/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
