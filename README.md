@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/2410991101/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2410991101/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/2410991101/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/2410991101/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/2410991101/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2410991101/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/2410991101/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/2410991101/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/2410991101/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/2410991101/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/2410991101/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Dynamic Programming
 |  |
 | ------- |
