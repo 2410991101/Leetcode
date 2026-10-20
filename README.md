@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/2410991101/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2410991101/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2410991101/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1678-goal-parser-interpretation](https://github.com/2410991101/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/2410991101/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
 |  |
