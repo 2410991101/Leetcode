@@ -1,15 +1,15 @@
 class Solution {
     public void rotate(int[] nums, int k) {
         int n = nums.length;
-        k = k%n;
-        rotat(nums,0,n-1);
-        rotat(nums,0,k-1);
-        rotat(nums,k,n-1);
+        k=k%n;
+        rotation(nums,0,n-1);
+        rotation(nums,0,k-1);
+        rotation(nums,k,n-1);
     }
-    static void rotat(int[] nums,int start,int end){
+    public void rotation(int[] nums,int start,int end){
         while(start<end){
             int temp = nums[start];
-            nums[start]=nums[end];
+            nums[start] = nums[end];
             nums[end]= temp;
             start++;
             end--;
