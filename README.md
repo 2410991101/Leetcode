@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/2410991101/Leetcode/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/2410991101/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2410991101/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/2410991101/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1392-longest-happy-prefix](https://github.com/2410991101/Leetcode/tree/master/1392-longest-happy-prefix) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2410991101/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/2410991101/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/2410991101/Leetcode/tree/master/0509-fibonacci-number) |
 | [0845-longest-mountain-in-array](https://github.com/2410991101/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/2410991101/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1143-longest-common-subsequence](https://github.com/2410991101/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -645,4 +647,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2410991101/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/2410991101/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
