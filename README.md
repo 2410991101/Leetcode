@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/2410991101/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0860-lemonade-change](https://github.com/2410991101/Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/2410991101/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0905-sort-array-by-parity](https://github.com/2410991101/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/2410991101/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/2410991101/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/2410991101/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/2410991101/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/2410991101/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/2410991101/Leetcode/tree/master/0455-assign-cookies) |
+| [0905-sort-array-by-parity](https://github.com/2410991101/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/2410991101/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/2410991101/Leetcode/tree/master/1094-car-pooling) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/2410991101/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/2410991101/Leetcode/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/2410991101/Leetcode/tree/master/0763-partition-labels) |
 | [0845-longest-mountain-in-array](https://github.com/2410991101/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0905-sort-array-by-parity](https://github.com/2410991101/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/2410991101/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/2410991101/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2410991101/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
