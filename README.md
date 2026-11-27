@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/2410991101/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/2410991101/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/2410991101/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/2410991101/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/2410991101/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/2410991101/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/2410991101/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/2410991101/Leetcode/tree/master/0509-fibonacci-number) |
 | [0845-longest-mountain-in-array](https://github.com/2410991101/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/2410991101/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/2410991101/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/2410991101/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Depth-First Search
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/2410991101/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2410991101/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/2410991101/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0931-minimum-falling-path-sum](https://github.com/2410991101/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1314-matrix-block-sum](https://github.com/2410991101/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/2410991101/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Trie
